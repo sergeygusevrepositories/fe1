@@ -35,17 +35,12 @@ img {
 }
 
 h1 {
-    /* Позиционирование */
-    /* Блочная модель */
     padding: 20px 0;
     margin-bottom: 25px;
-    /* Типографика */
     letter-spacing: 3.3px;
     text-transform: uppercase;
     color: #373737;
     font-size: 22px;
-    /* Отображение */
-    /* Прочее */
 }
 
 p {
