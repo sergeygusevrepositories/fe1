@@ -14,7 +14,7 @@
     padding: 10px 0;
 }
 
-a.nav-link {
+.nav-link {
     padding-right: 50px;
     text-transform: uppercase;
     text-decoration: none;
@@ -34,7 +34,7 @@ img {
     width: 100%;
 }
 
-h1.main-h1 {
+.main-title {
     padding: 20px 0;
     margin-bottom: 25px;
     letter-spacing: 3.3px;
@@ -43,14 +43,14 @@ h1.main-h1 {
     font-size: 22px;
 }
 
-p.main-p {
+.main-text {
     margin-bottom: 35px;
     font-size: 16px;
     letter-spacing: 2.4px;
     color: #373737;
 }
 
-button.main-btn {
+.main-btn {
     font-weight: bold;
     font-size: 12px;
     letter-spacing: 1.8px;
@@ -67,7 +67,7 @@ button.main-btn {
     margin-top: 50px;
 }
 
-p.footer-p {
+.footer-text {
     margin-top: 30px;
     font-weight: bold;
     font-size: 16px;
